@@ -29,9 +29,9 @@ download "${ODB_COMPILER_OSX}" "http://www.codesynthesis.com/download/odb/2.4/${
 
 download "${ODB_COMPILER_LINUX}" "http://www.codesynthesis.com/download/odb/2.4/${ODB_COMPILER_LINUX}"
 
-download "${ODB_RUNTIME}" "http://www.codesynthesis.com/download/odb/2.4/${ODB_RUNTIME}"
+download "${ODB_RUNTIME_TARBALL}" "http://www.codesynthesis.com/download/odb/2.4/${ODB_RUNTIME_TARBALL}"
 
-download "${ODB_SQLITE_RUNTIME}" "http://www.codesynthesis.com/download/odb/2.4/${ODB_SQLITE_RUNTIME}"
+download "${ODB_SQLITE_RUNTIME_TARBALL}" "http://www.codesynthesis.com/download/odb/2.4/${ODB_SQLITE_RUNTIME_TARBALL}"
 
 download "${LIBPNG_TARBALL}" "ftp://ftp.simplesystems.org/pub/libpng/png/src/libpng16/${LIBPNG_TARBALL}"
 

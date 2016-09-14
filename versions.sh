@@ -19,5 +19,9 @@ export SQLITE_TARBALL="${SQLITE_VERSION}.tar.gz"
 
 export ODB_COMPILER_OSX="odb-2.4.0-i686-macosx.tar.bz2"
 export ODB_COMPILER_LINUX="odb_2.4.0-1_amd64.deb"
-export ODB_RUNTIME="libodb-2.4.0.tar.bz2"
-export ODB_SQLITE_RUNTIME="libodb-sqlite-2.4.0.tar.bz2"
+
+export ODB_RUNTIME="libodb-2.4.0"
+export ODB_RUNTIME_TARBALL="${ODB_RUNTIME}.tar.bz2"
+
+export ODB_SQLITE_RUNTIME="libodb-sqlite-2.4.0"
+export ODB_SQLITE_RUNTIME_TARBALL="${ODB_SQLITE_RUNTIME}.tar.bz2"
