@@ -1,0 +1,6 @@
+This repo stores copies of the joystream dependencies.
+
+The dependencies are configured and built by the main joystream repo.
+
+To get latest versions of libraries, edit `version.sh` and then run the `download-latest.sh`
+
