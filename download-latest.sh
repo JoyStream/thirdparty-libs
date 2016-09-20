@@ -25,7 +25,7 @@ download "${LIB_BOOST_TARBALL}" "http://sourceforge.net/projects/boost/files/boo
 
 download "${LIBTORRENT_TARBALL}" "https://github.com/arvidn/libtorrent/archive/${LIBTORRENT_TARBALL}"
 
-download "${ODB_COMPILER_OSX}" "http://www.codesynthesis.com/download/odb/2.4/${ODB_COMPILER_OSX}"
+download "${ODB_COMPILER_OSX_TARBALL}" "http://www.codesynthesis.com/download/odb/2.4/${ODB_COMPILER_OSX_TARBALL}"
 
 download "${ODB_COMPILER_LINUX}" "http://www.codesynthesis.com/download/odb/2.4/${ODB_COMPILER_LINUX}"
 
