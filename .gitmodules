@@ -1,3 +1,6 @@
 [submodule "libtorrent"]
 	path = libtorrent
 	url = https://github.com/JoyStream/libtorrent
+[submodule "mSIGNA"]
+	path = mSIGNA
+	url = https://github.com/JoyStream/mSIGNA.git
